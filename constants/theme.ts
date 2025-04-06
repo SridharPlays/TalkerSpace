@@ -11,6 +11,8 @@ const COLORS = {
     border: "#c8e6c9",
     white: "#ffffff",
     black: "#000000",
+    surface: "#1A1A1A",
+    grey: "#9CA3AF",
   };
   
   // RETRO
